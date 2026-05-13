@@ -1,4 +1,4 @@
-# Hi there, I'm wzq 👋
+# Hi there, I'm lean_wang 👋
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```python
-class WZQ:
+class lean_wang:
     current_company = "Dobot"
     previous_company = "iFlytek"
 
@@ -122,7 +122,7 @@ class WZQ:
 
 ## 📫 Connect
 
-* Email: `wzq243339@gmail.com`
+* Email: `lean_wang243339@gmail.com`
 
 ---
 
