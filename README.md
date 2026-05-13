@@ -122,7 +122,7 @@ class lean_wang:
 
 ## 📫 Connect
 
-* Email: `lean_wang243339@gmail.com`
+* Email: `2570549015@qq.com`
 
 ---
 
