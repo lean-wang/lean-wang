@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,70:00d4ff,100:7f00ff&height=230&section=header&text=Lean%20Wang%20%7C%20VLA%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embodied%20AI%20%7C%20RL%20for%20VLA%20%7C%20World%20Action%20Models%20%7C%20Training%20Infra&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+models+that+can+perceive%2C+reason+and+act.;VLA+Algorithm+Engineer+%40+Dobot;Former+Foundation+Model+Engineer+%40+iFlytek;LLM+%7C+VLM+Pretraining+%26+Post-training;RL+for+VLA+%7C+World+Action+Models+%7C+Training+Infra" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+models+that+can+perceive%2C+reason+and+act.;VLA+Algorithm+Engineer+%40+Dobot;LLM+%7C+VLM+Pretraining+%26+Post-training;RL+for+VLA+%7C+World+Action+Models+%7C+Training+Infra" />
 
 <br/>
 
