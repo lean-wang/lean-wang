@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,70:00d4ff,100:7f00ff&height=230&section=header&text=Lean%20Wang%20%7C%20VLA%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embodied%20AI%20%7C%20RL%20for%20VLA%20%7C%20World%20Action%20Models%20%7C%20Training%20Infra&descAlignY=58&descSize=16" />
@@ -148,4 +148,4 @@ Scalable Distributed Training
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00d4ff,100:020024&height=150&section=footer"/>
 
 </div>
-```
+
